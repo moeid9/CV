@@ -1,6 +1,6 @@
 ## Syed Moeid Haider
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Biomedical science graduate and currently learning at Makers Academy with the goal of developing a career in software development. Passionate about building things and solving analytical problems. Firmly believe that tech products created for the right purpose can make this world better.
 
 ## Projects
 
@@ -63,10 +63,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### Manchester Metropolitan University (16/09/2019 - 01/07/2023)
-
 - BSc Biomedical Science
-- 2-1
+- Grade 2-1
 - Other cool stuff
+
 
 #### Any other qualifications
 
