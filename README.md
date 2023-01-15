@@ -74,4 +74,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I enjoy playing sports regularly such ultimate frisbee, badminton, football
