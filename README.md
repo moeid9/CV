@@ -43,7 +43,6 @@ Support worker for autistic children - Provided support, planned day-outs for ch
 
 ## Hobbies
 
-I enjoy playing sports regularly such ultimate frisbee, badminton, football.
-Gaming
-Korean Shows and K-pop
-Anime
+- I enjoy playing sports regularly such ultimate frisbee, badminton, football.
+- I love gaming,
+- I also enjoy Korean Shows and K-pop and Anime.
