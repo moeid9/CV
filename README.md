@@ -34,15 +34,16 @@ Commitment - I completed the three-month Makers Academy coding bootcamp as a sel
 #### Manchester Metropolitan University (16/09/2019 - 01/07/2023)
 - BSc Biomedical Science
 - Grade 2-1
-- Other cool stuff
-
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Dissertation Title: Investigating the effect of ApoE polymorphisms on the blood glucose response.
 
 ## Work Experience
+Takeaway Manager (part-time) - Grew ratings of the takeaway from 3 to 4.9 stars on Just-Eat by working in a collaborative team environment where I handle customer orders, deliveries, and drinks stock. Also, developed ability to work under pressure in managing multiple orders at the same time, handling customer complaints, and managing stock under tight deadlines.
+
+Support worker for autistic children - Provided support, planned day-outs for children and learned to adapt my approach to meeting each child's different needs, working alongside other support workers.
 
 ## Hobbies
 
-I enjoy playing sports regularly such ultimate frisbee, badminton, football
+I enjoy playing sports regularly such ultimate frisbee, badminton, football.
+Gaming
+Korean Shows and K-pop
+Anime
